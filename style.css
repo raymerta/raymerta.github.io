@@ -31,9 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
-	list-style: none;
-}
+
 blockquote, q {
 	quotes: none;
 }
@@ -80,4 +78,12 @@ p.title {
 
 strong {
 	font-weight: 900;
+}
+
+ul {
+	margin: 20px;
+}
+
+ul li {
+	margin: 15px 0;
 }
